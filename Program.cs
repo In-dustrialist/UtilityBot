@@ -11,7 +11,7 @@ namespace UtilityBot
 {
     static class Program
     {
-        public static string Token = "YOUR_BOT_TOKEN"; //Укажите Ваш ТОКЕН
+        public static string Token = "YOUR_BOT_TOKEN"; //Укажите Ваш ТОКЕН 
 
         public static async Task Main()
         {
